@@ -1,0 +1,4 @@
+[prod_server]
+
+client ansible_host=10.100.20.10       ansible_user=ubuntu 
+client ansible_host=10.100.30.187      ansible_user=ubuntu 
